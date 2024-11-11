@@ -11,6 +11,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pace-thomson&langs_count=8) 
 ![Top Langs](https://github-readme-stats-pace-thomsons-projects.vercel.app/api/top-langs/?username=pace-thomson&langs_count=8) 
 ![Top Langs](https://github-readme-stats-git-master-pace-thomsons-projects.vercel.app/api/top-langs/?username=pace-thomson&langs_count=8) 
+![Top Langs](https://vercel-readme-six.vercel.app/api/top-langs/?username=pace-thomson&langs_count=8) 
+
 
 
 <h3 align="left">Languages and Tools:</h3>
