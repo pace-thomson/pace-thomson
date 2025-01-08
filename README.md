@@ -6,18 +6,6 @@
   I love coding and dirt biking.
 </p>
 
-![Top Langs](https://github-readme-stats-6ljxqs5ym-pace-thomsons-projects.vercel.app/api/top-langs/?username=pace-thomson&langs_count=8) 
-![Top Langs](https://github-readme-stats-nu-five-23.vercel.app/api/top-langs/?username=pace-thomson&langs_count=8) 
-
-
-# second try ish
-
-github-readme-stats1-mocha.vercel.app
-<p><img align="left" src="https://github-readme-stats1-mocha.vercel.app/api/top-langs?username=pace-thomson&show_icons=true&locale=en&layout=compact" alt="pace-thomson" /></p>
-
-![Top Langs](https://github-readme-stats1-25e2fsywg-pace-thomsons-projects.vercel.app/api/top-langs/?username=pace-thomson&langs_count=8) 
-
-
 # existing
 
 <h3 align="left">Languages and Tools:</h3>
